@@ -16,7 +16,7 @@
 $ apt update && pkg upgrade -y
 $ apt install python2 -y
 $ apt install git -y
-$ git clone https://github.com/kinarworo/ratuerror
+$ git clone https://github.com/nuxanli745/nuxanli
 ```
 
 ## Run script
