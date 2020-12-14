@@ -3,7 +3,7 @@
 </h1>
 </div>
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/kinarworo">NUXANLI</a>
+  Made with ❤️ by <a href="https://github.com/nuxanli745/nuxanli">NUXANLI</a>
 </p>
 
    ![](https://img.shields.io/badge/Language-1-blue) ![](https://img.shields.io/badge/Python-3.7-green) ![](https://img.shields.io/badge/Size-5KB-orange) ![](https://img.shields.io/badge/Relase-16-09-20-brightgreen)
@@ -16,7 +16,7 @@
 $ apt update && pkg upgrade -y
 $ apt install python2 -y
 $ apt install git -y
-$ git clone https://github.com/kinarworo/ratuerror
+$ git clone https://github.com/nuxanli745/nuxanli
 ```
 
 ## Run script
