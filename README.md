@@ -21,7 +21,7 @@ $ git clone https://github.com/kinarworo/ratuerror
 
 ## Run script
 ```
-$ cd ratuerror
+$ cd nuxanli
 $ pip2 install requests bs4
 $ python2 nuxanli
 ```
